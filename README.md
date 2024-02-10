@@ -4,5 +4,5 @@
 - 🎨 I am comfortable with Figma, Photoshop and Illustrator
 - 🌱 I’m currently learning React
 - 📫 My LinkedIn: https://www.linkedin.com/in/katerina-pankov/
-- 😄 Pronouns: she/her
+- 👩 Pronouns: she/her
 
